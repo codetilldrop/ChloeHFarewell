@@ -1,0 +1,47 @@
+body {
+  background-size: cover;
+  background-image: url('http://cdn.pcwallart.com/images/birthday-balloons-photography-wallpaper-4.jpg')
+}
+
+.title {
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 27px;
+  font-family: 'Impact';
+  font-weight: bold;
+}
+
+.centre {
+  text-align: center;
+}
+
+.Button_Space {
+  margin-top: 3%;
+}
+
+.text {
+  color: black;
+  text-align: center;
+  font-size: 23px;
+  font-family: 'Impact';
+  font-weight: bold;
+}
+
+.Click_Me {
+  background-color: yellow;
+  text-align: center;
+  border: solid black;
+  border-radius: 10px;
+  color: black;
+  font-size: 23px;
+  font-family: 'Impact';
+  font-weight: bold;
+  display: block;
+  margin: 0 auto;
+}
+
+.Gif {
+  border-radius: 10px;
+  border: solid black;
+}
