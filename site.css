@@ -1,6 +1,6 @@
 body {
   background: purple;
-  background: -webkit-linear-gradient(left, red , yellow);
+  background: -webkit-linear-gradient(left, purple , aqua);
 }
 
 .title {
@@ -21,4 +21,9 @@ body {
   text-align: center;
   font-size: 23px;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.gif {
+  border: solid black;
+  border-radius: 10px;
 }
